@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @scoutzers85
-- 👀 I’m interested in being cool
-- 🌱 I’m currently learning lua coding
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me : none
+Bah!
