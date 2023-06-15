@@ -1,29 +1,6 @@
-why are you here
+# whats up
 
+im a lazy dude
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-you dont see me
+ya
+thats pretty much it
